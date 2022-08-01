@@ -3650,6 +3650,8 @@ input, select, textarea {
 		#nav a {
 			color: #ffffff;
 			border-bottom-color: rgba(255, 255, 255, 0.5);
+			text-align: center;
+  			padding: 14px 16px;
 		}
 
 			#nav a:hover {
