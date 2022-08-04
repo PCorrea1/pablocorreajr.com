@@ -30,3 +30,5 @@ function reAuthorize(){
     }).then(res => res.json())
         .then(res => getActivities(res))
 }
+
+reAuthorize()
