@@ -27,8 +27,7 @@ function reAuthorize(){
             refresh_token: 'a724bf6544b3865d659f8c16fce7f5cf3ae3ef5a',
             grant_type: 'refresh_token'
         })
-    }).then(res => res.json())
-        .then(res => getActivities(res))
+    }).then((res) => console.log(res.json()))
 }
 
 reAuthorize()
