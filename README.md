@@ -1,5 +1,5 @@
-<span style="color:red">Code for pablocorreajr.com</span>
+<font color ='red'>Code for pablocorreajr.com</font>
 =======
 
 
-<span style="color:blue">`Code Owner: Pablo Correa`</span>
+<font color='blue'>`Code Owner: Pablo Correa`</font>
