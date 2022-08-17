@@ -6,7 +6,23 @@ Code for pablocorreajr.com
 
 # Release Notes
 
-## 1.5.0
+## 0.3.0
+
+### Features
+
+- Strava Icon added to Navigation bar and Socials section
+- Marathon page now displays most recent runs tracked through Strava
+- Follow me on Strava button takes user to Pablo Correa's Strava athlete profile
+
+### Bug Fixes
+
+- None
+
+### Known Issues
+
+- Mobile view still has a few kinks
+
+## 0.2.0
 
 ### Features
 
@@ -18,13 +34,13 @@ Code for pablocorreajr.com
 
 ### Bug Fixes
 
-- Issues with picutre fitting in about me page, had to adjust the image width
+- Issues with picture fitting in about me page, had to adjust the image width
 
 ### Known Issues
 
 - Struggling to find solution to posting Strava completed runs onto website
 
-## 1.0.0
+## 0.1.0
 
 ### Features
 
