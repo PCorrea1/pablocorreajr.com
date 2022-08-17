@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #b209f5;
+		background-color: #1e252d;
 	}
 	
 	.dark-mode {
@@ -319,7 +319,7 @@ input, select, textarea {
 	}
 
 	code {
-		background: rgba(220, 220, 220, 0.25);
+		background: rgba(205, 4, 245, 0.25);
 		border-color: #eeeeee;
 	}
 
