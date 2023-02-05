@@ -6,6 +6,20 @@ Code for pablocorreajr.com
 
 # Release Notes
 
+## 0.4.0
+
+### Features
+
+- Add Google Analytics
+
+### Bug Fixes
+
+- None
+
+### Known Issues
+
+- Mobile view still has a few kinks
+
 ## 0.3.0
 
 ### Features
