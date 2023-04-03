@@ -6,6 +6,20 @@ Code for pablocorreajr.com
 
 # Release Notes
 
+## 0.5.0
+
+### Features
+
+- Updated bio and about me. Likely last commit. Gonna redo the entire site. Gonna go for a scalable design, hopefully looking to finish before the end of the summer
+
+### Bug Fixes
+
+- None
+
+### Known Issues
+
+- Mobile view still has a few kinks
+
 ## 0.4.0
 
 ### Features
