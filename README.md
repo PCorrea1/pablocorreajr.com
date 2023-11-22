@@ -4,7 +4,7 @@ Code for pablocorreajr.com
 
 `👥Code Owner: Pablo Correa`
 
-# Release Notes
+## Release Notes
 
 ## 0.5.0
 
